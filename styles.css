@@ -1,0 +1,10 @@
+<img src="/img/doro.png" class="sticky-logo" alt="Logo">
+
+.sticky-logo {
+  position: fixed;
+  bottom: 20px;
+  right: 20px; /* or left: 20px */
+  width: 80px;
+  height: auto;
+  z-index: 9999;
+}
