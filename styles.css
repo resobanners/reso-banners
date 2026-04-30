@@ -15,19 +15,3 @@
 .sticky-logo:hover {
   transform: scale(1.1);
 }
-
-.sheet-wrapper {
-  width: 100%;
-  height: 600px;
-  margin: 0 auto;
-  border-radius: 12px;
-  overflow: hidden;
-  box-shadow: 0 8px 30px rgba(0,0,0,0.15);
-  border: 1px solid #e5e5e5;
-}
-
-.sheet-frame {
-  width: 100%;
-  height: 100%;
-  border: none;
-}
